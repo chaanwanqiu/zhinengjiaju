@@ -1,0 +1,2 @@
+<view>加湿器</view>
+<button bindtap="jiashiqi">开/关</button>
