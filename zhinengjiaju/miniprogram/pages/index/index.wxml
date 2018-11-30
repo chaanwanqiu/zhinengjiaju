@@ -1,17 +1,21 @@
 <view class="jx_card">
 
-   <image  class="beijing" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542950194062&di=c00794119e526fb0dadd19e829d8c7f9&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20180106%2F2d0416dab08a4f839178f1008010b864.jpeg">
+   <image  class="beijing" src="../../images/beijing.jpg">
 </image>
 
-//跳转至窗户界面
-<image class="chuanghu" bindtap="send1" src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543734898&di=22e9e2d6be29800b4501e7caf5f20a2b&imgtype=jpg&er=1&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3D251d92f3c41b9d169eca92229bb7defa%2Ffcfaaf51f3deb48fdf8fa1f2fa1f3a292df57833.jpg'></image>
-
-<image class="kongtiao" bindtap="send1" src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543140113827&di=902cd5769ce6c4e1349ddcc46e942219&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fa6efce1b9d16fdfa3c2c0126be8f8c5495ee7bb2.jpg'></image>
-
-<image class="jiashiqi" bindtap="send2" src='https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2653680745,2539516926&fm=26&gp=0.jpg'></image>
 
 
-<image class="deng" bindtap="send3" src='https://f11.baidu.com/it/u=1089399998,1539965356&fm=72'></image>
+
+<image class="kongtiao" bindtap="send1" src='../../images/kongtiao.png'></image>
+
+<image class="chuanghu" bindtap="send4" src='../../images/chuanghu.jpg'></image>
+
+<image class="jiashiqi" bindtap="send2" src='../../images/jiashiqi.png'></image>
+
+
+<image class="deng" bindtap="send3" src='../../images/deng.png'></image>
+
+<image class="yinyue" bindtap="send5" src='../../images/yinyue.jpg'></image>
 
  </view>
 

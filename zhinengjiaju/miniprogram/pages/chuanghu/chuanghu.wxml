@@ -1,0 +1,9 @@
+<view class="jx_card">
+<view class='beijing'>
+
+<view class='biaoti'>窗户</view>
+
+<button class="kaiguan1" plain="true" bindtap="send1">开</button>
+<button class="kaiguan2" plain="true" bindtap="send2">关</button>
+</view>
+</view>

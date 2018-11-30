@@ -1,0 +1,40 @@
+page{
+  width:100%;
+  height:100%;
+  overflow: hidden;
+}
+
+.biaoti{
+ font-style:italic;
+ font-weight:900;
+ font-size:large;
+} 
+.beijing{
+  width:100%;
+  height:100%;
+  background: url('http://img2.imgtn.bdimg.com/it/u=2207957099,3607997239&fm=200&gp=0.jpg');
+  background-size: cover;
+}
+.kaiguan1{
+  top:200rpx;
+
+  width:50%;
+  position:absolute;
+}
+.kaiguan2{
+  top:320rpx;
+
+  width:50%;
+  position:absolute;
+}
+.kaiguan3{
+  top:440rpx;
+ 
+  width:50%;
+  position:absolute;
+}
+.jx_card{
+  width: 100%;
+ height: 100%;
+ position: relative
+}

@@ -1,0 +1,9 @@
+<view class="jx_card">
+<view class='beijing'>
+
+<!--按钮默认样式，点击事件-->
+<button class="kaiguan1" plain="true" bindtap="send1">播放</button>
+<button class="kaiguan2" plain="true" bindtap="send2">暂停</button>
+<button class="kaiguan3" plain="true" bindtap="send3">下一首</button>
+</view>
+</view>

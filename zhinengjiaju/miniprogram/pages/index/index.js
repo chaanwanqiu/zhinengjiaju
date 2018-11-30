@@ -131,9 +131,17 @@ send3: function () {
     wx.navigateTo({
       url: '../../pages/deng/deng'
     })
-  }
-
+  },
+send4:function(){
+  wx.navigateTo({
+    url: '../../pages/chuanghu/chuanghu'
+  })
+},
   
- 
+ send5: function () {
+    wx.navigateTo({
+      url: '../../pages/yinyue/yinyue'
+    })
+  }
 
 })

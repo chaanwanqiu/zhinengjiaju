@@ -3,7 +3,10 @@
     "pages/index/index",
     "pages/kongtiao/kongtiao",
     "pages/jiashiqi/jiashiqi",
-    "pages/deng/deng"
+    "pages/deng/deng",
+    "pages/chuanghu/chuanghu",
+    "pages/yinyue/yinyue"
+      
   ],
   "window": {
     "backgroundTextStyle": "light",

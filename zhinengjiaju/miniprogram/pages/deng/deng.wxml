@@ -1,5 +1,9 @@
-<view>控制灯</view>
+<view class="jx_card">
+<view class='beijing'>
+<view class='biaoti'>灯</view>
 <!--按钮默认样式，点击事件-->
-<button type="primary" bindtap="send1">开灯</button>
-<button type="default"bindtap="send2">关灯</button>
-<button type="warn"bindtap="send3">恢复自动功能</button>
+<button class="kaiguan1" plain="true" bindtap="send1">开灯</button>
+<button class="kaiguan2" plain="true" bindtap="send2">关灯</button>
+<button class="kaiguan3" plain="true" bindtap="send3">恢复自动功能</button>
+</view>
+</view>

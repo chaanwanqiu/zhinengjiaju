@@ -1,0 +1,38 @@
+/* pages/chuanghu/chuanghu.wxss */
+page{
+  width:100%;
+  height:100%;
+  overflow: hidden;
+}
+
+.biaoti{
+ font-style:italic;
+ font-weight:900;
+ font-size:large;
+} 
+.beijing{
+  width:100%;
+  height:100%;
+  background: url('http://img0.imgtn.bdimg.com/it/u=503930606,2486140144&fm=26&gp=0.jpg');
+  background-size: cover;
+}
+.kaiguan1{
+  
+  width:255rpx;
+  
+}
+.kaiguan2{
+  
+  width:255rpx;
+  
+}
+.jx_card{
+  width: 100%;
+ height: 100%;
+ position: relative
+}
+.biaoti{
+ font-style:italic;
+ font-weight:900;
+ font-size:large;
+} 

@@ -1,2 +1,6 @@
-<view>空调</view>
-<button bindtap="send2">开/关</button>
+<view class='beijing'>
+<view class='biaoti'>空调</view>
+<button class='kaiguan' plain='ture' bindtap="send2">开/关</button>
+<view class="duanluo1">听说夏天</view>
+<view class="duanluo2">空调与冰西瓜更配哟</view>
+</view>
