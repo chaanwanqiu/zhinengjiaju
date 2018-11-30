@@ -77,7 +77,7 @@ Page({
       url: 'http://api.heclouds.com/devices/504601808/datapoints?type=3',
       method: 'post',
       data: {
-        kongtiao: '5'  //这里是发送给服务器的参数（参数名：参数值）  
+        kongtiao: '9'  //这里是发送给服务器的参数（参数名：参数值）  
       },
       header: {
         'content-type': 'application/json',
@@ -114,13 +114,13 @@ Page({
     }, 6000)
 
   },
-  send2: function () {
+  send3: function () {
     var that = this //创建一个名为that的变量来保存this当前的值  
     wx.request({
       url: 'http://api.heclouds.com/devices/504601808/datapoints?type=3',
       method: 'post',
       data: {
-        kongtiao: '5'  //这里是发送给服务器的参数（参数名：参数值）  
+        kongtiao: 'b'  //这里是发送给服务器的参数（参数名：参数值）  
       },
       header: {
         'content-type': 'application/json',
@@ -141,7 +141,7 @@ Page({
         url: 'http://api.heclouds.com/devices/504601808/datapoints?type=3',
         method: 'post',
         data: {
-          kongtiao: 'b'  //这里是发送给服务器的参数（参数名：参数值）  
+          kongtiao: '0'  //这里是发送给服务器的参数（参数名：参数值）  
         },
         header: {
           'content-type': 'application/json',

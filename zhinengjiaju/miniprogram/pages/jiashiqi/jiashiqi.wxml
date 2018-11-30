@@ -2,9 +2,10 @@
 <view class='beijing'>
 
 <view class="biaoti">加湿器</view>
-<button class="kaiguan" plain="true" bindtap="jiashiqi">开/关</button>
+<button class="kaiguan" plain="true" bindtap="send2">开/关</button>
 <view class="biaoti2">秋冬温馨小贴士</view>
 <view class="duanluo1">秋冬季节气候十分干燥</view>
 <view class="duanluo2">要记得多喝水及时补充身体水分哟!</view>
 </view>
+
 </view>

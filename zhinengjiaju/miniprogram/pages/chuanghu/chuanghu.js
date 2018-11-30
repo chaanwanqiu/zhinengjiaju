@@ -69,7 +69,7 @@ Page({
       url: 'http://api.heclouds.com/devices/504601808/datapoints?type=3',
       method: 'post',
       data: {
-        kongtiao: '4'  //这里是发送给服务器的参数（参数名：参数值）  
+        kongtiao: '6'  //这里是发送给服务器的参数（参数名：参数值）  
       },
       header: {
         'content-type': 'application/json',
@@ -112,7 +112,7 @@ Page({
       url: 'http://api.heclouds.com/devices/504601808/datapoints?type=3',
       method: 'post',
       data: {
-        kongtiao: '5'  //这里是发送给服务器的参数（参数名：参数值）  
+        kongtiao: '7'  //这里是发送给服务器的参数（参数名：参数值）  
       },
       header: {
         'content-type': 'application/json',
